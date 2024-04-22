@@ -12,5 +12,12 @@ Welcome to my GitHub profile! I'm Bijou Mengulwa, a data analyst with a keen int
 ⚡ Fun fact: I'm a big fan of the creative arts, Videography and photography, Dance  and I love traveling whenever I get the chance!
 Let's connect and collaborate on some exciting projects together! 😊
 
+## Fun Feature: Chuck Norris Joke Generator
+
+Enjoy a good laugh with Chuck Norris jokes! Run the following Python code to get a random joke:
+
+```bash
+python joke_generator.py
+
 
     
