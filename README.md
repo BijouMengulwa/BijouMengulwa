@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm Bijou Mengulwa, a data analyst with a keen interest in software development. Here's a little bit about what I'm up to:
 
 🔭 I’m currently working on: Enhancing my data analysis skills and diving deeper into software development to broaden my expertise.
-🌱 I’m currently learning: Software Development, including languages like Python, JavaScript, and Java, as well as frameworks such as Flask, Django, and React.js.
+🌱 I’m currently learning: Software Development, including languages like Python, JavaScript as well as frameworks such as Flask, Django, and React.js.
 👯 I’m looking to collaborate on: Projects at the intersection of data analysis and software development, where I can leverage my analytical skills while also expanding my programming knowledge.
 🤔 I’m looking for help with: Exploring best practices in software development and understanding advanced concepts in programming.
 💬 Ask me about: Anything related to data analysis, from data cleaning and visualization to statistical modeling and machine learning.
